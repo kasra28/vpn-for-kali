@@ -1,3 +1,6 @@
-simple linux vpn can use on linux system and macos laptop if you have openvpn 
---------------------------------------------------------------------------------
-write by kasra akhavan iranian hacker \n enjoy anonymous web surfing
+### simple vpn for any linux os and mac os 
+----------------------------------------
+**how install & how to use**
+1. 
+2. Second item
+3. Third item
