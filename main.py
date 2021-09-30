@@ -26,7 +26,7 @@ print(bcolors.DARKCYAN + "if you dont have openvpn install you can just type on 
 sp(2)
 print(bcolors.CYAN +'''
 Username: vpnbook
-Password: 2mxt8wz
+Password: e7x76mc
 source is https://www.vpnbook.com/freevpn
 ''')
 sp(2)
