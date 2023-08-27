@@ -33,7 +33,7 @@ def converter(i_url):
 def start():
     print(bcolors.CYAN +f'''
     Username: vpnbook
-    Password: {print(converter("https://www.vpnbook.com/password.php?t=0.69584000%201692080891"))}
+    Password: {converter("https://www.vpnbook.com/password.php?t=0.69584000%201692080891")}
     source is https://www.vpnbook.com/freevpn
     ''')
     menu = input(bcolors.GREEN + '''
